@@ -1,0 +1,294 @@
+.navup-right {
+    float: right;
+    padding: 40px;
+    margin-left: 5px;
+}
+
+#nav {
+    padding: 0px 20px;
+    color: #f5ecec;
+    font-family: 'Roboto', sans-serif;
+    background-image:linear-gradient(45deg,#390a58 ,tomato);
+}
+
+
+
+.body{
+    margin: 0%;
+}
+
+h1{
+    font-family: 'Bungee', cursive;
+    font-family: ;
+}
+
+h1{
+    font-size: 40px;
+}
+
+
+.paragraph{
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+h2{
+    font: size 40px;
+}
+
+h3{
+  font-size: 20px;
+}
+
+.blockchain{
+    font-family: 'Bungee', cursive;
+}
+
+
+
+p{
+    color: dimgray;
+}
+
+.myname{
+    color: #ff5722;
+}
+
+.welcome{
+    color: #6a1b9a;
+}
+
+.website{
+    color: #03a9f4;
+}
+
+
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+
+}
+
+
+.half-width img{
+    width:80%;
+}
+
+
+
+
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom:150px ;
+}
+
+
+
+.varsity{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,#5d22ff ,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    position: absolute;
+    
+
+
+}
+
+.youtube{
+text-decoration: none;
+background-image:linear-gradient(45deg,#250935 ,tomato);
+padding: 10px 20px;
+border-radius: 5px;
+color: white;
+font-weight: 700;
+position: absolute;
+
+}
+
+
+.future{
+    font-family: 'Bungee', cursive;
+    color: #ff5722;
+}
+
+.google{
+    font-family: 'Bungee', cursive;
+    color: #03a9f4;
+}
+
+.paragraph-two{
+    font-family: 'Do Hyeon', sans-serif;
+    padding-right: 25%;
+}
+
+
+
+*{
+    margin: 2;
+    padding: 2;
+    box-sizing: border-box;
+  }
+  
+
+
+ 
+  
+  .prowork{
+    margin-top: 10%;
+  }
+  
+  .prowork h1{
+    font-family: 'Bungee', cursive;
+    font-size: 52px;
+    color: #ff5722;
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  
+  .team{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    text-align: center;
+    flex-wrap: wrap;
+  }
+  
+.team .team_member{
+    margin: 2px;
+    margin-bottom: 50px;
+    width: 400px;
+    padding: 20px;
+    line-height: 20px;
+    color: #8e8b8b;  
+    position: relative;
+  }
+
+
+  .capp{
+      font-size: 10px;
+      
+  }
+  
+
+  .team .team_member h3{
+    color: #81c644;
+    font-size: 16px;
+    margin-top: 15px;
+    font-size: 35px;
+  }
+  
+  .team .team_member p.app{
+    color: #ccc;
+    margin: 10px 0;
+    font-size: 10px;
+    
+  }
+ 
+  .team .team_member .team_img{
+    top: -4475px;
+    left: 75%;
+   
+    width: 100px;
+    height: 120px;
+    border-radius: 5555533850%;
+    
+  }
+  
+  .team .team_member .team_img img{
+    width: 500px;
+    height: 350px;
+    padding: 70px;
+  }
+  
+ 
+ .hireup{
+     position:absolute;
+     left: 150px;
+     padding-left: 250px;
+    
+
+     font-family: 'Bungee', cursive;
+
+
+ }
+ 
+
+ .text-box {
+    position: absolute;
+    bottom: 20px;
+    left: 200px;
+    color: white;
+    padding-left: 250px;
+    padding-right: 20px;
+  }
+
+ .pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+    
+ }
+
+ 
+ 
+footer h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
+
+.icons {
+    
+    text-align: center;
+    font-size: 15px;
+    
+  }
+  
+  .icons a {
+    text-align: center;
+    padding: 8px;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 35px;
+  }
+  
+  
+  
+  .fbfind {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .twitfind {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .googlefind {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .linkedinfind {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .youtubefind {
+    background: #bb0000;
+    color: white;
+  }
+  
